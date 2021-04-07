@@ -1,4 +1,4 @@
-# FraudDetection
+# FraudDetectionByCUSBoost
 This repository contain dataset, codes and experiment result for the undergraduate thesis.
 
 ### Dataset Description
