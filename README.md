@@ -24,3 +24,4 @@ This repository contain dataset, codes and experiment result for the undergradua
 
 ### Document
 - A mini paper (in English): mini_paper.pdf
+- Slide (in Chinese): oral defense slide.pdf
