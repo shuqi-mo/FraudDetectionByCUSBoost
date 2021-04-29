@@ -13,7 +13,7 @@ This repository contain dataset, codes and experiment result for the undergradua
 
 ### Code Description
 
-- AdaBoost: AdaBoost.py
+- AdaBoost: adaBoost.py
 - RUSBoost: rus_sampling.py, rusboost.py
 - CUSBoost: cus_sampling.py, cusboost.py
 - run.py: run and evaluate the algorithm
