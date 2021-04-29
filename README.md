@@ -21,3 +21,6 @@ This repository contain dataset, codes and experiment result for the undergradua
 ### Experiment Result
 
 - test.ipynb
+
+### Document
+- A mini paper (in English): mini_paper.pdf
